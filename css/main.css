@@ -1,0 +1,38 @@
+h1
+{
+	color:rosybrown;
+	font-family: impact;
+	font-style: italic;
+	margin: 200px;
+	font-size: 69px;
+
+}
+
+
+.desc{
+	text-align:center;
+}
+
+p
+{
+	color:lightslategrey;
+	font-family: impact;
+	margin-top: 200px;
+	margin-bottom: 450px;
+}
+
+h3
+{
+	background: rosybrown;
+	color:white;
+	font-family: futura;
+	text-align: center;
+	margin-top: 600px;
+}
+
+ul
+{
+	background: #6e9cb6;
+	color:white;
+	text-align: center;
+}

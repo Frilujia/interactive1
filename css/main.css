@@ -35,4 +35,9 @@ ul
 	background: #6e9cb6;
 	color:white;
 	text-align: center;
+	margin-bottom: 100px;
+}
+
+.bullet{
+	color:white;
 }

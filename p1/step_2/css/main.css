@@ -1,0 +1,154 @@
+/*v1 */
+*{
+
+}
+
+h1{
+	font-family: futura;
+	text-align: center;
+	margin-top: 650px;
+	margin-bottom:400px;
+}
+
+.rotation
+{
+	transform: skewX(30deg)
+	}
+
+.rotation2
+{
+
+	transform: skewX(-30deg);
+}
+
+.rotation3
+{
+	 transform:skewX(30deg);
+}
+
+.rotation4
+{
+	transform:skewX(-30deg);
+}
+
+.rotation5
+{
+	transform:skewX(30deg);
+}
+
+.rotation6
+{
+	transform:skewX(-30deg);
+}
+
+.rotation7
+{
+	transform:skewX(30deg);
+}
+
+.rotation8
+{
+	transform:skewX(-30deg);
+}
+
+.rotation9
+{
+	transform:skewX(30deg);
+}
+
+
+#v2{
+
+}
+
+.font
+{
+	font-size: 100px;
+	text-align:justify;
+}
+
+#v3{
+
+}
+
+p
+{
+		font-size: 10px;
+		text-align:justify;
+}
+
+.rotation
+{
+	transform:rotateZ(30deg);
+}
+
+.rotation2
+{
+	transform:rotateZ(40deg);
+}
+
+.rotation3
+{
+transform:rotateZ(50deg);
+}
+
+.rotation4
+{
+	transform:rotateZ(60deg);
+}
+
+.rotation5
+{
+	transform:rotateZ(70deg);
+}
+
+.rotation6
+{
+	transform:rotateZ(80deg);
+}
+
+.rotation7
+{
+	transform:rotateZ(90deg);
+}
+
+.rotation8
+{
+	transform:rotateZ(100deg);
+}
+
+.rotation9
+{
+	transform:rotateZ(110deg);
+}
+
+.end
+{transform:rotateZ(180deg);}
+
+
+#v4
+{
+
+}
+
+p
+{
+	font-family:futura;
+	text-align: center;
+	font-size: 77px
+
+}
+
+
+#v5
+
+p
+{
+	font-family:futura;
+	text-align: center;
+	font-size: 77px
+
+}
+
+
+

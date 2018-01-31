@@ -136,7 +136,14 @@ transform:rotateZ(50deg);
 {
 	font-family:futura;
 	text-align: center;
-	font-size: 44px
+	font-size: 44px;
+	margin-top:300px;
+	margin-bottom: 300px;
+	margin-left: 300px;
+	margin-right:300px;
+	text-align: center;
+	text-align:justify;
+	font-family: americanscribe;
 
 }
 

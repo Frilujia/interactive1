@@ -136,7 +136,7 @@ transform:rotateZ(50deg);
 {
 	font-family:futura;
 	text-align: center;
-	font-size: 77px
+	font-size: 44px
 
 }
 
@@ -151,5 +151,48 @@ transform:rotateZ(50deg);
 
 }
 
+.x1
+{
+	transform:rotateZ(45deg);
+}
 
+.x2
+{
+	transform:rotateZ(135deg);
+}
+
+.x3
+{
+	transform:rotateZ(135deg);
+}
+
+.x4
+{
+	transform:rotateZ(45deg);
+}
+
+.x5
+{
+	transform:rotateZ(135deg);
+}
+
+.x6
+{
+	transform:rotateZ(45deg);
+}
+
+.x7
+{
+	transform:rotateZ(135deg);
+}
+
+.x8
+{
+	transform:rotateZ(135deg);
+}
+
+.x9
+{
+	transform:rotateZ(45deg);
+}
 

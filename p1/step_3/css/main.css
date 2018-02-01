@@ -128,7 +128,7 @@
 	line-height: 1px;
 }
 
-#vr2{
+#vr4{
 
 }
 
@@ -249,7 +249,7 @@
 }
 
 
-#vr3
+#vr2
 {
 
 }
@@ -287,22 +287,164 @@
 
 }
 
+#vr3
+{
+
+}
+
+
+p
+{
+		font-size: 10px;
+		text-align:justify;
+}
+
+.rotation
+{
+	transform:rotateZ(30deg);
+	background-color: #8A1907;
+	color:white;
+}
+
+.rotation2
+{
+	transform:rotateZ(40deg);
+	background-color:#236E0C;
+	color:white;
+}
+
+.rotation3
+{
+transform:rotateZ(50deg);
+background-color: #177090;
+color:white;
+}
+
+.rotation4
+{
+	transform:rotateZ(60deg);
+	background-color: #DC5E15;
+	color:white;
+}
+
+.rotation5
+{
+	transform:rotateZ(70deg);
+	background-color: #FEF60D;
+	color: white;
+}
+
+.rotation6
+{
+	transform:rotateZ(80deg);
+	background-color: #680CD1;
+	color: white;
+}
+
+.rotation7
+{
+	transform:rotateZ(90deg);
+	background-color: #D10C7C;
+	color: white;
+}
+
+.rotation8
+{
+	transform:rotateZ(100deg);
+	background-color: #82D10C;
+	color: white;
+}
+
+.rotation9
+{
+	transform:rotateZ(110deg);
+	background-color: #B91111;
+	color: white;
+}
+
+.end
+{transform:rotateZ(180deg);}
+
+
+
+.vr5
+{
+
+}
 
 
 
 
+.font2
+{
+	font-family:futura;
+	text-align: center;
+	font-size: 77px
 
+}
 
+.x1
+{
+	transform:rotateZ(45deg);
+	background-color: #8A1907;
+	color:white;
+}
 
+.x2
+{
+	transform:rotateZ(135deg);
+	background-color: #177090;
+color:white;
+}
 
+.x3
+{
+	transform:rotateZ(135deg);
+	background-color:#236E0C;
+	color:white;
+}
 
+.x4
+{
+	transform:rotateZ(45deg);
+		background-color: #FEF60D;
+	color: white;
+}
 
+.x5
+{
+	transform:rotateZ(135deg);
+	background-color: #DC5E15;
+	color:white;
+}
 
+.x6
+{
+	transform:rotateZ(45deg);
+		background-color: #D10C7C;
+	color: white;
+}
 
+.x7
+{
+	transform:rotateZ(135deg);
+	background-color: #680CD1;
+	color: white;
+}
 
+.x8
+{
+	transform:rotateZ(135deg);
+	background-color: #B91111;
+	color: white;
+}
 
-
-
+.x9
+{
+	transform:rotateZ(45deg);
+	background-color: #82D10C;
+	color: white;
+}
 
 
 

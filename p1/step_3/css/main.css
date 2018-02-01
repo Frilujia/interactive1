@@ -19,6 +19,52 @@
 
 }
 
+.circle2
+{
+	position: relative;
+    color: white;
+    background-color:#CE5441;
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    font-size: 28px;
+    text-align: center;
+    font-family: lamarpen;
+    vertical-align: center;
+	transform: rotate(20deg);
+
+}
+
+ .circle3
+{
+	position: relative;
+    color: white;
+    background-color:#CD8472;
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    font-size: 28px;
+    text-align: center;
+    font-family: lamarpen;
+    vertical-align: center;
+	transform: rotate(40deg);
+}
+
+.circle4
+{
+	position: relative;
+    color: white;
+    background-color:#F4CEC4;
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    font-size: 28px;
+    text-align: center;
+    font-family: lamarpen;
+    vertical-align: center;
+	transform: rotate(40deg);
+}
+
 .p
 {
 	line-height: 70px
@@ -69,7 +115,7 @@
 
 .np
 {
-line-height: 6px;
+	line-height: 6px;
 }
 
 .tenp
@@ -203,14 +249,43 @@ line-height: 6px;
 }
 
 
+#vr3
+{
 
+}
 
+.atst
+{
+	font-size: 70px;
+	text-align: center;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top:100px;
+	margin-bottom: 100px;
+	color: red;
+	text-transform: uppercase;
+	font-family: funkydori;
+	color: #932509;
+	font-weight: bold;
+	line-height: 33px;
+}
 
+.prg
+{
+	font-family: funkydori;
+	font-size: 70px;
+	text-align: justify;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top:100px;
+	margin-bottom: 100px;
+	line-height: 300px;
+	background-color: #932509;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
 
-
-
-
-
+}
 
 
 

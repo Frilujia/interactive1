@@ -4,7 +4,7 @@
 
 .whole
 {
-	font-family:lobster;
+
 	text-align: center;
 	font-size: 77px
 	margin-top:100px;
@@ -59,8 +59,14 @@
 	transform:rotateZ(45deg);
 }
 
-p a{
+.x1 a{
 	text-decoration:none;
 	color:red;
-	font-size: 88px;
+	font-size: 55px;
+}
+
+.x9 a{
+	text-decoration:none;
+	color:#ccccff;
+	font-size: 55px;
 }

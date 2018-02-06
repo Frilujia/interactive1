@@ -4,13 +4,13 @@
 
 .whole
 {
-	font-family:futura;
+	font-family:lobster;
 	text-align: center;
 	font-size: 77px
-	margin-top:0px;
-	margin-bottom: 0px;
-	margin-left:0px;
-	margin-right:0px;
+	margin-top:100px;
+	margin-bottom: 100px;
+	margin-left:100px;
+	margin-right:100px;
 
 }
 
@@ -59,3 +59,8 @@
 	transform:rotateZ(45deg);
 }
 
+p a{
+	text-decoration:none;
+	color:red;
+	font-size: 88px;
+}

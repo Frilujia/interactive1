@@ -32,3 +32,7 @@ font-family: abolition;
 font-size: 55PX;
 color:#006600;
 }
+
+.running{
+	transform:rotate(90deg);
+}

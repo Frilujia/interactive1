@@ -1,0 +1,24 @@
+
+
+a:hover{
+	background-color: white;
+}
+
+h1
+{
+text-align: center;
+font-size: 31px;
+color:red;
+}
+
+p
+{
+	font-size:12px;
+	font-family: futura;
+	text-align: center;
+}
+
+.src
+{
+position:relative;
+}

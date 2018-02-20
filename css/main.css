@@ -81,3 +81,7 @@ background:#CE460C ;
 .bullet{
 	color:white;
 }
+
+a:hover{
+	background-color: white;
+}

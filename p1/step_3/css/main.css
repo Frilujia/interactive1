@@ -447,6 +447,76 @@ color:white;
 }
 
 
+.vr6
+{
+
+
+}
+
+
+.o1
+{
+	transform:rotateZ(45deg);
+
+	color:black;
+}
+
+.o2
+{
+	transform:rotateZ(135deg);
+
+color:black;
+}
+
+.o3
+{
+	transform:rotateZ(135deg);
+
+	color:black;
+}
+
+.o4
+{
+	transform:rotateZ(45deg);
+
+	color: black;
+}
+
+.o5
+{
+	transform:rotateZ(135deg);
+
+	color:black;
+}
+
+.o6
+{
+	transform:rotateZ(45deg);
+
+	color:black;
+}
+
+.o7
+{
+	transform:rotateZ(135deg);
+
+	color:black;
+}
+
+.o8
+{
+	transform:rotateZ(135deg);
+	color:black;
+}
+
+.o9
+{
+	transform:rotateZ(45deg);
+	color:black;
+}
+
+
+
 
 
 

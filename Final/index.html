@@ -1,34 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Media Queries</title>
-	<!-- Set the Viewport -->
+	<title>World Map</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="assets/js/jquery.min.js">
+	</script>
+	<script src="assets/js/script.js"></script>
+	<meta charset="utf-8" />
+	<!-- Set the Viewport -->
+
 	<!-- CSS -->
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="assets/css/main.css">
+
 </head>
-<body>
+<body style="background-image:url(http://www.machado-silvetti.com/OFFICE/index/bmpworldmapmercator.png)">
 	<!-- show by default -->
 	<div id="desktop">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Obverse_of_the_series_2009_%24100_Federal_Reserve_Note.jpg">
+	<p>
+	CLICK ON THE FLAG TO VIEW BEAUTIFUL PICTURES OF THE COUNTRY.
+	<img id="london" src="https://media.giphy.com/media/1r1MBfPWGfWJa/giphy.gif" style="width:67px;position:">		
 	</div>
 
 	<!-- show on tablet -->
 	<div id="tablet">
-		<img src="https://www.workers.org/wp-content/uploads/US-20-dollar-bill.jpg">
+		
 	</div>
 
 	<!-- show on mobile -->
 	<div id="mobile">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Onedolar2009series.jpg/1200px-Onedolar2009series.jpg">
-	</div>
 
+		</div>
 	<!-- show on print -->
 	<div id="print">
-		This is for print.
-		<img id="dollar" src="print/d3.jpg">
+		hello
 	</div>	
-
-
 </body>
 </html>

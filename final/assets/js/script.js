@@ -8,7 +8,7 @@ $('document').ready(function(){
   	}); 
 
 	$(document).on( 'click', '.big', function(){
-		alert('hi');
+		alert('System error: please print out to view high resolution version');
   	});
 
 });

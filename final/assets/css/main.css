@@ -22,6 +22,60 @@ body {
     left: 903px	
 }
 
+#iceland{
+	position: absolute;
+	top:186px;
+	left:799px;
+}
+
+#Morocco{
+	position: absolute;
+	top:410px;
+	left:884px;
+}
+
+#France{
+	position: absolute;
+	top:320px;
+	left:920px;
+}
+
+#USA{
+	position: absolute;
+	top:355px;
+	left:340px;
+}
+
+#USA2{
+	position: absolute;
+	top:160px;
+	left:70px;
+}
+
+#china{
+	position: absolute;
+	top:414px;
+	left:1492px;
+}
+
+#Canada{
+	position: absolute;
+	top:240px;
+	left:280px;
+}
+
+#Brazil{
+	position: absolute;
+	top:680px;
+	left:630px;
+}
+
+#greenland{
+	position: absolute;
+	top:75px;
+	left:683px;
+}
+
 .big {
 	width: 90vw;
 	height: auto;

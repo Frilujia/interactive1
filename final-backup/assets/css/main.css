@@ -1,0 +1,155 @@
+* { margin: 0px; padding: 0px; }
+
+body {
+	background: white;
+	min-height: 100vh;
+}
+
+#desktop{
+
+}
+
+#tablet, #mobile, #print {
+	opacity: 0;
+	pointer-events: none;
+}
+
+#london {
+	position: absolute;
+    top: 260px;
+    left: 903px	
+}
+
+#iceland{
+	position: absolute;
+	top:186px;
+	left:799px;
+}
+
+#Morocco{
+	position: absolute;
+	top:410px;
+	left:884px;
+}
+
+#France{
+	position: absolute;
+	top:320px;
+	left:920px;
+}
+
+#USA{
+	position: absolute;
+	top:355px;
+	left:340px;
+}
+
+#USA2{
+	position: absolute;
+	top:160px;
+	left:70px;
+}
+
+#china{
+	position: absolute;
+	top:414px;
+	left:1492px;
+}
+
+#Canada{
+	position: absolute;
+	top:240px;
+	left:280px;
+}
+
+#Brazil{
+	position: absolute;
+	top:680px;
+	left:630px;
+}
+
+#greenland{
+	position: absolute;
+	top:75px;
+	left:683px;
+
+}
+
+
+.big {
+	width: 105vw;
+	height: auto;
+}
+
+
+p{
+	font-family: futura;
+	text-align: center;
+	background-color: white;
+	color:grey;
+
+}
+
+img {
+  cursor: pointer;
+
+
+}
+
+img:hover {
+  background: transparent;
+}
+
+
+#position {
+    position: absolute;
+    font-size: 200px;
+    font-family: abolition;
+    pointer-events: none;
+}
+
+
+
+
+/* iPad */
+@media (min-width: 668px) and (max-width: 1024px) { 
+	body {
+		background: white;
+	}
+
+	#tablet{
+		opacity: 1;
+	
+			width: 50%;
+			height:50%;
+	}
+
+	#desktop, #mobile, #print {
+		opacity: 0;
+	}
+
+}
+
+/* print */
+@media print {
+	
+	body {
+		background: white;
+	}
+
+	h1{
+		font-family: abolition;
+		text-align: center;
+		font-size: 70px;
+	}
+
+	#print{
+		opacity: 1;
+	}
+
+	#desktop, #tablet, #mobile {
+		opacity: 0;
+	}
+
+}
+

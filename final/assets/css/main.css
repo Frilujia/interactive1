@@ -2,6 +2,7 @@
 
 body {
 	background: white;
+	min-height: 100vh;
 }
 
 #desktop{
@@ -10,10 +11,7 @@ body {
 
 #tablet, #mobile, #print {
 	opacity: 0;
-}
-
-#dollar{
-	display: none;
+	pointer-events: none;
 }
 
 #london {
@@ -74,13 +72,51 @@ body {
 	position: absolute;
 	top:75px;
 	left:683px;
+
 }
+
 
 .big {
-	width: 90vw;
+	width: 105vw;
 	height: auto;
+	z-index: 10000;
 }
 
+
+p{
+	font-family: futura;
+	text-align: center;
+	background-color: white;
+	color:grey;
+
+}
+
+img {
+  cursor: pointer;
+
+
+}
+
+img:hover {
+  background: transparent;
+}
+
+
+#position {
+    position: absolute;
+    font-size: 200px;
+    font-family: abolition;
+    pointer-events: none;
+    z-index: 10000;
+}
+
+#container {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 0;
+
+}
 
 
 /* iPad */
@@ -102,29 +138,17 @@ body {
 
 }
 
-/* iPhone 6 */
-@media (min-width: 375px) and (max-width: 667px) { 
-	
-	body {
-		background: white;
-	}
-
-	#mobile{
-		opacity: 1;
-	transform: rotate(90deg);
-
-	}
-
-	#desktop, #tablet, #print {
-		opacity: 0;
-	}
-}
-
 /* print */
 @media print {
 	
 	body {
 		background: white;
+	}
+
+	h1{
+		font-family: abolition;
+		text-align: center;
+		font-size: 70px;
 	}
 
 	#print{
@@ -137,18 +161,3 @@ body {
 
 }
 
-p{
-	font-family: futura;
-	text-align: center;
-	background-color: white;
-	color:grey;
-
-}
-
-img {
-  cursor: pointer;
-}
-
-img:hover {
-  background: transparent;
-}

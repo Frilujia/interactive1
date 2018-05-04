@@ -107,7 +107,7 @@ img:hover {
     font-size: 200px;
     font-family: abolition;
     pointer-events: none;
-    z-index: 10000;
+    z-index: 100000;
 }
 
 #container {
